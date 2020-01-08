@@ -1,7 +1,6 @@
 {
   "name": "nuxt-fundamentals",
   "version": "1.0.0",
-  "description": "My scrumtrulescent Nuxt.js project",
   "author": "kevin",
   "private": true,
   "scripts": {
@@ -11,7 +10,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "nuxt-purgecss": "^0.2.1",
+    "tailwindcss": "^1.1.4"
   },
   "devDependencies": {}
 }
