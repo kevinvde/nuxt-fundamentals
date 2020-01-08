@@ -1,4 +1,4 @@
-# nuxt-fundamentals
+# Excliesa
 
 > My scrumtrulescent Nuxt.js project
 
