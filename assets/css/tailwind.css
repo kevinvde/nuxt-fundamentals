@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bg {
+  background: url("/images/gallery/1.jpg") no-repeat center;
+}
+
+.overlay {
+  background-color: rgba(67, 74, 84, 0.2)
+}
